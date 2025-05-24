@@ -78,10 +78,10 @@
 ## 🚀 Featured Projects
 
 <a href="https://github.com/immrdg/wisecow-k8s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=immrdg&repo=project-1&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=immrdg&repo=wisecow-k8s&theme=radical" />
 </a>
 <a href="https://github.com/immrdg/FunMaths">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=immrdg&repo=project-2&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=immrdg&repo=FunMaths&theme=radical" />
 </a>
 
 <!-- Current Activity Section -->
